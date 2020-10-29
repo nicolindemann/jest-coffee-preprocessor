@@ -27,6 +27,6 @@
     "coffee-script": "^1.12.6"
   },
   "devDependencies": {
-    "standard": "^14.0.0"
+    "standard": "^16.0.0"
   }
 }
