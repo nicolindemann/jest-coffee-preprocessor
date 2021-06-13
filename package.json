@@ -1,6 +1,6 @@
 {
   "name": "jest-coffee-preprocessor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Coffee Script Preprocessor for Jest Edit",
   "main": "index.js",
   "scripts": {
